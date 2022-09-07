@@ -1,5 +1,6 @@
- 
- State Diagram:
+** create your own component hierarchy diagram for Tic Tac Toe, draw it out, and attach the image in a readme.md
+Explain in words how you would manage state, and props in your application and how you would solve it
+ State Diagram:**
  
 3x3 TicTacToe
 Our idea revolves around directing the AI agent (in this case the computer) to choose a move based on the utilities of the immediate next moves available to it. The agent must pick the maximum of these utilities for the next move.
