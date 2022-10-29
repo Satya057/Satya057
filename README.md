@@ -1,4 +1,4 @@
-![logo](https://github.com/Satya057/Satya057/blob/main/I'm%20Satyaprakash.png)
+![logo](D:\faltu)
 
 <h1 align="center">Hi 👋, I'm Satyaprakash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
