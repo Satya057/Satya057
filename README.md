@@ -10,8 +10,10 @@
 - 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **singhsatyaprakash057@gmail.com**
+- 
+- Portfolio:https://satya057.github.io/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uAnwqfT7Nd1Ci3APGgiDs0sufZ6-VdoN/view?usp=sharing](https://drive.google.com/file/d/1uAnwqfT7Nd1Ci3APGgiDs0sufZ6-VdoN/view?usp=sharing)
+- 📄 Know about my experiences  https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
