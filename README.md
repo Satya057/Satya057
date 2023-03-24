@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satya057" alt="satya057" /></a> </p>
 
 
-<p align="left"> <a href=" https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing"> </a>Resume </p>
+<p align="left"> <a href=" https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing"> Resume</a> </p>
 
 
 
