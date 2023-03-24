@@ -13,11 +13,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://satya057.github.io/](https://satya057.github.io/)
-All about me is at [My Portfolio Website]( https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing)
+- 📄 Know about my experiences [Resume]( https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing)
 
 
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing](https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
