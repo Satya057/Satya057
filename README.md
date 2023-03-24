@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satya057" alt="satya057" /></a> </p>
 
+
+<p align="left"> <a href=" https://drive.google.com/file/d/1SNIchhkE5kAy9B8qHkVYFu7ZEhAIK4F1/view?usp=sharing"> </a>Resume </p>
+
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://satya057.github.io/](https://satya057.github.io/)
