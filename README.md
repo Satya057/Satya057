@@ -1,4 +1,4 @@
-![logo](https://github.com/Satya057/Satya057/blob/main/my.png)
+![logo](https://github.com/Satya057/Satya057/blob/main/my1.png.png)
 
 <h1 align="center">Hi 👋, I'm Satyaprakash Singh</h1>
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. I'm a Tech Enthusiast who enjoys building awesome website that solves real world problems.</h3>
