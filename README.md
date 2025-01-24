@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at  [Portfolio](https://667ead8e2d3c730def7b6862--scintillating-maamoul-398422.netlify.app/)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://satya057.github.io/)
 
 - 📄 Know about my experiences [Resume](  https://drive.google.com/file/d/1J3urmc02x3CArWNPchg1DbeChAQ-tzH5/view?usp=sharing)
 
